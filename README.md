@@ -10,26 +10,6 @@ This repository contains an interactive Streamlit dashboard for predicting and v
 - Top High-Risk Customers: See the top churned customers and reasons for leaving.
 - Churn Explanation: Rule-based and data-driven reasons for customer churn are displayed.
 
-## 🗂️ Project Structure
-
-customer_churn_analysis/
-│
-├── data/
-│ └── sample_customers.csv # Sample dataset with demo customers
-│
-├── model/
-│ └── churn_model.pkl, encoders.pkl (generated; not included in repo—see usage)
-│
-├── scripts/
-│ └── train_model.py # Model training and encoding script
-│
-├── app_streamlit.py # Streamlit dashboard app
-│
-├── requirements.txt # Python dependencies
-│
-└── README.md # Project documentation (this file)
-
-
 ## 📊 Sample Dataset
 
 - `sample_customers.csv` contains 10 demo customers with all required fields, including actual churn reasons for "Yes" records.
