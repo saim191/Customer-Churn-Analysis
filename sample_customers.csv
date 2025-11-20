@@ -1,0 +1,11 @@
+Name,Email,Gender,Income,Age,Country,Total_Amount,Feedback,Order_Status,Ratings,Churn,Churn_Reason
+Alice,alice1@demo.com,Female,Low,22,UK,1200,Bad,Returned,2.2,Yes,Bad product quality
+Bobby,bobby2@demo.com,Male,High,35,USA,8400,Good,Delivered,9.2,No,
+Carol,carol@demo.com,Female,Medium,41,USA,2600,Poor,Pending,4.4,Yes,Bad customer service
+David,david@demo.com,Male,Low,28,Germany,700,Average,Delivered,5.3,No,
+Esha,esha@demo.com,Female,Medium,21,India,3000,Good,Returned,7.7,No,
+Franz,franz@demo.com,Male,Low,46,Germany,500,Bad,Pending,3.0,Yes,Negative feedback
+Grace,grace@demo.com,Female,High,33,USA,15000,Good,Delivered,8.8,No,
+Hari,hari@demo.com,Male,Medium,60,India,4300,Good,Delivered,6.9,No,
+Imran,imran@demo.com,Male,Low,27,UK,200,N/A,Cancelled,1.6,Yes,"Order cancelled, low rating"
+Jenny,jenny@demo.com,Female,Medium,25,India,2800,Average,Pending,5.9,No,
